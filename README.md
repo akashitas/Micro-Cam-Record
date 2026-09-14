@@ -593,7 +593,7 @@ Possible future improvements include:
 
 # Author
 
-**Shiva Kumar**
+**Akashita Sharma**
 
 Electronics and Communication Engineering
 
